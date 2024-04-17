@@ -30,9 +30,20 @@ Outcome and Benefits:
 The project successfully delivered a detailed analytical report that improved the visibility of our loan operations. The insights generated from the Power BI dashboards have enabled us to make strategic decisions based on data-driven insights, significantly enhancing our lending practices.
 
 #Dashboard 1: 
+
+
+
 <img width="611" alt="dashboard 1" src="https://github.com/subbu112/Bank-Loan-Report-/assets/167138632/3b0488c2-2658-4667-8435-04558e0b8d2e">
 
-#Dashboard 2:
+#Dashboard 2: 
+
+
+
+<img width="613" alt="Dashboard 2" src="https://github.com/subbu112/Bank-Loan-Report-/assets/167138632/138fe6a6-e9d7-4b94-b15e-b369cf309bab">
+
+#Dashboard 3:
+
+
 
 
 Conclusion:
