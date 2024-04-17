@@ -52,4 +52,4 @@ The project successfully delivered a detailed analytical report that improved th
 # Conclusion:
 This project underscores the capability of Power BI in transforming raw data into actionable insights, which is pivotal for strategic decision-making in finance. The use of Power BI exclusively, without SQL, demonstrates its sufficiency in handling and analyzing complex datasets effectively within the banking sector.
 
-# For detailed Project download Power Bi files in the file section I have included the dataset I have worked with the dataset name is financial_loan
+For detailed Project download Power Bi files in the file section. I have also included the dataset I have worked with, the dataset name is financial_loan
